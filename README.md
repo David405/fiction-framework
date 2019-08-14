@@ -1,2 +1,2 @@
 # fictional
-A custom grid built using CSS
+A custom CSS framework for buidling web pages
