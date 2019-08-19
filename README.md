@@ -1,5 +1,5 @@
 # fictional
-A custom CSS framework for buidling web pages
+A custom CSS framework for building web pages
 
 This purpose of this project was to implement my own grid-based framework. The framework should include:
 
