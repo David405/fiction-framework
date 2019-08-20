@@ -6,8 +6,8 @@ linters:
         ignore: 'box-model,ids'
     stylelint:
         config: 'stylelint.config.js'
-    fixers:
-        enable: true
+        fixers:
+            enable: true
 
 files:
     ignore:
