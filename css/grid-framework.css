@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+
 /*container*/
 body {
   font-family: "Roboto", sans-serif;
@@ -10,6 +10,8 @@ body {
   margin: auto;
   padding: 5px;
   text-align: center;
+  
+ 
 }
 
 .fluid-container {
