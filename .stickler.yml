@@ -3,9 +3,7 @@ linters:
     eslint:
         config: 
     csslint:
- stylelint:
-
-    config: 'stylelint.config.js'
+        config: 'stylelint.config.js'
 files:
     ignore:
         - 'src/generated/*'
