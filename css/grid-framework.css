@@ -1,7 +1,6 @@
 body {
   background-color: #f8f8f8;
 }
-
 main {
   background-color: white;
 }
@@ -29,22 +28,19 @@ h3 {
   color: #4a4a4a;
   font-size: 18px;
   font-weight: bold;
-  letter-spacing: 0.2px;
   line-height: 21.6px;
+  letter-spacing: 0.2px;
   text-align: center;  
 }
-
 /* NAVBAR */
 nav{
 max-width: 90%;
-  margin: 0 auto 3rem auto;
+margin: 0 auto 3rem auto;
 }
-
 nav img {
   height: 70px;
   width: 52px;
 }
-
 nav h2 {
   color: #cc9543;
   font-size: 32px;
@@ -55,12 +51,13 @@ nav h2 {
 }
 
 .nav-list {
-  height: 90px;
   float: right;
+  height: 90px;
+
 }
 
 .nav-list ul li a {
-  color:rgb(74,74,74,0.7);
+  color:rgba(74,74,74,0.7);
   font-size: 16px;
   font-weight: bold;
   letter-spacing: 0.2px;
@@ -74,12 +71,11 @@ nav h2 {
   color: black;
 }
 
-#faq {
+.faq {
   padding-right: 8px;
 }
-
-#sign-up {
-  border-left: 2px solid rgb(74,74,74,0.7);
+.sign-up {
+  border-left: 2px solid rgba(74,74,74,0.7);
   padding-left: 8px;
 }
 
@@ -101,7 +97,7 @@ nav h2 {
 .header-button {
   background-color: #6abfc3;
   border-radius: 3.2px;
-  box-shadow: rgba(0, 0, 0, 0.5) 0px 0.8px 4px 0px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0 0.8px 4px 0;
   color: white;
   font-size: 16px;
   font-weight: bold;
@@ -164,17 +160,18 @@ nav h2 {
 .language-container figure {
   align-items: center;
   background-color: white;
-  box-shadow: rgba(0, 0, 0, 0.05) 0px 7px 16px 0px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0 7px 16px 0;
   margin: 20px auto;
-  padding: 25px;
   max-width: 90%;
+  padding: 25px;
+ 
 }
 
 .language {
   color: white;
   background-color: #cc9543;
   border-radius: 3.2px;
-  box-shadow: rgba(0, 0, 0, 0.5) 0px 0.8px 4px 0px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0 0.8px 4px 0;
   font-size: 16px;
   font-weight: bold;
   letter-spacing: 0.2px;
@@ -219,7 +216,7 @@ nav h2 {
 }
 
 .stories-link {
-  color: rgb(74,74,74,0.7);
+  color: rgba(74,74,74,0.7);
   font-size: 16px;
   letter-spacing: normal;
   line-height: 24px;
@@ -230,7 +227,7 @@ nav h2 {
 }
 
 .subscribe-section p {
-  color: rgb(74,74,74,0.7);
+  color: rgba(74,74,74,0.7);
   font-size: 35.2px;
   letter-spacing: 0.2px;
   line-height: 52.8px;
@@ -240,7 +237,7 @@ nav h2 {
 .subscribe-section button {
   background-color: #6abfc3;
   border-radius: 3.2px;
-  box-shadow:rgba(0, 0, 0, 0.5) 0px 0.8px 4px 0px;
+  box-shadow:rgba(0, 0, 0, 0.5) 0 0.8px 4px 0;
   color: #ffffff;
   font-size: 16px;
   font-weight: bold;
@@ -251,7 +248,7 @@ nav h2 {
 }
 
 .subscribe-section button:hover {
-  background-color: rgb(106,191,195, 0.8);
+  background-color: rgba(106,191,195, 0.8);
   cursor: pointer;
 }
 
@@ -289,7 +286,7 @@ nav h2 {
 }
 
 .footer-list ul li a {
-  color:rgb(74,74,74,0.7);
+  color:rgba(74,74,74,0.7);
   font-size: 16px;
   font-weight: bold;
   letter-spacing: 0.2px;
