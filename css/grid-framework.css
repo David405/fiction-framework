@@ -302,8 +302,8 @@ nav h2 {
 
 
 
-@media(max-width:800px){
-  nav h2{
+@media (max-width: 800px) {
+  nav h2 {
     font-size: 0.8rem;
   }
 }
