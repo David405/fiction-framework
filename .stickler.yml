@@ -1,7 +1,6 @@
 linters:
     flake8:
     eslint:
-       
     csslint:
         config: './stylelint.config'
 
