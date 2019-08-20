@@ -47,8 +47,8 @@ table {
 
 
 img{
-    max-width:100%;
     height: auto;
+    max-width:100%;
 }
 
 /* Framework Wrapper */
@@ -71,12 +71,6 @@ img{
 .visible-lg{
     display: block;
 }
-
-
-.row, .column {
-    box-sizing: border-box;
-}
-
 .row {
     margin-bottom: 15px;
     overflow: hidden;
