@@ -4,5 +4,3 @@ linters:
 
     config: 'stylelint.config.js'
     
-fixers:
-    enable: true

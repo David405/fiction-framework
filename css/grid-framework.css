@@ -1,30 +1,24 @@
-
-/*container*/
 body {
   font-family: "Roboto", sans-serif;
   line-height: 30px;
 }
-
 .container {
   max-width: 1363px;
   margin: auto;
   padding: 5px;
   text-align: center;
 }
-
 .fluid-container {
   max-width: 1000px;
   margin: auto;
   padding: 5px;
 }
-
 /*divs*/
 .row {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
-
 .logo {
   display: flex;
 }
@@ -69,11 +63,9 @@ img {
         "banner"
 }
 
-
 header {
     text-align: center;
 }
-
 .main-heading {
     margin-bottom: 0;
     padding-bottom: 1.875rem;
@@ -90,8 +82,7 @@ header {
     font-size: 1.125rem;
     letter-spacing: 0.2px;
     margin: 0;
-    line-height: 1.88;
-    
+    line-height: 1.88;  
 }
 
 .button-primary, .button-third {
@@ -101,7 +92,6 @@ header {
 .button-primary {
     margin-bottom: 4px;
 }
-
 .button {
     border-radius: 0.2em;
     box-shadow: 0 0.05em 0.25em 0 rgba(0, 0, 0, 0.5);
