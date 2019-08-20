@@ -437,15 +437,6 @@ footer a:hover {
   font-weight: bolder;
 }
 
-/*Background*/
-.bg-white {
-  background: white;
-}
-
-.bg-lightgray {
-  background: #F3F3F3;
-}
-
 /*Links*/
 a {
   text-decoration: none;
