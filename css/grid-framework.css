@@ -10,8 +10,6 @@ body {
   margin: auto;
   padding: 5px;
   text-align: center;
-  
- 
 }
 
 .fluid-container {
@@ -31,20 +29,20 @@ body {
   display: flex;
 }
 .logo h1 {
-  font-family: 'Caesar Dressing', cursive;
   color: #cc9543;
+  font-family: 'Caesar Dressing', cursive;
   padding-left: 20px;
 }
 ul {
+  justify-content: space-between;
  display: flex;
  list-style-type: none;
- justify-content: space-between;
   }
  
   ul li a{
+  color: rgba(15, 15, 15, 0.5);
   display: block;
   font-size: 16px;
-  color: rgba(15, 15, 15, 0.5);
   text-decoration: none;
   }
   li a:hover {
