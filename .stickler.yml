@@ -3,9 +3,15 @@ linters:
     eslint:
         config: './eslint.config'
     csslint:
+         ignore:
+            - 'box-model,ids'
+            - 'h2 , h3'
+            - 'order-alphabetical'
 
 files:
     ignore:
         - 'src/generated/*'
         - 'webroot/bower_components/*'
         - 'box-model,ids'
+        - 'h2 , h3'
+        - 'order-alphabetical'
