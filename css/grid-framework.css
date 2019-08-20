@@ -51,17 +51,13 @@ ul {
     color: black;
     opacity: 0.8;
   }
-  * {
-    box-sizing: inherit;
-}
-
+  
 html {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #container {
     display: grid;
-    grid-gap: 20px;
 }
 
 img {
