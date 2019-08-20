@@ -3,9 +3,10 @@ linters:
   eslint:
     config: './eslint.config'
   csslint:
-
+    config: './stylelint.config'
 files:
   ignore:
     - "src/generated/*"
     - "webroot/bower_components/*"
-    
+fixers:
+    enable: true 
