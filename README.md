@@ -10,7 +10,6 @@ Default Styling for Font
 SampleProject folder is to store all the files for project based on framework.
 
 # Authors
-[Brham Dev Mahato](https://github.com/dev1980)
 
 [David Asamonye](https://github.com/david405)
 
