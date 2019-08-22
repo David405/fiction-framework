@@ -1,7 +1,7 @@
 # fictional
 A custom CSS framework for building web pages
 
-This purpose of this project was to implement a grid-based framework. The framework should include:
+The purpose of this project was to implement a grid-based framework. The framework should include:
 
 A CSS Reset 
 Gutters 
